@@ -100,3 +100,18 @@ Migration Key
 1850 UTC
 Added the Rating in view/movies/create.cshtmlsl
 
+2024-06-06
+Yash Aggarwal
+1700 UTC
+
+1706
+created a github account.
+
+1710
+pushed a new github repositary.
+
+1712
+uploaded whole MvcMovie project on git.
+
+1713
+verified movie titles in the seed data and run successfully.
