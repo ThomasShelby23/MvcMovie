@@ -104,14 +104,17 @@ Added the Rating in view/movies/create.cshtmlsl
 Yash Aggarwal
 1700 UTC
 
-1706
-created a github account.
+1750 UTC
+created a github account with the college credentials there it ask for the student card as I went for some extra features of GITHUB
 
-1710
-pushed a new github repositary.
+1820 UTC
+From the Visual Studio, in the ribbon tab from Git, I created a Created a Repositories 
+where a git dialog box open and selected it to be public
 
-1712
-uploaded whole MvcMovie project on git.
+1830 UTC
+uploaded MvcMovie project to the git.
 
-1713
-verified movie titles in the seed data and run successfully.
+1840 UTC
+Deleted the Movies and add the 5 new Movies to the Seed Data and was able to see the rating, Price, Name AND ETC.
+
+1857 UTC
