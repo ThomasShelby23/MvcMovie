@@ -107,6 +107,10 @@ Yash Aggarwal
 1750 UTC
 created a github account with the college credentials there it ask for the student card as I went for some extra features of GITHUB
 
+1755 UTC
+The Link Mentioned below is my git hub profile where i have my MVC Movies File and it is in public state
+https://github.com/ThomasShelby23/MvcMovie
+
 1820 UTC
 From the Visual Studio, in the ribbon tab from Git, I created a Created a Repositories 
 where a git dialog box open and selected it to be public
@@ -118,3 +122,5 @@ uploaded MvcMovie project to the git.
 Deleted the Movies and add the 5 new Movies to the Seed Data and was able to see the rating, Price, Name AND ETC.
 
 1857 UTC
+The Chnages I was making tool a lot of time for me to understand how to push it to Git Hub
+But after some surfing I tried to use Commit then enter a message then tried to push it and was successful.
